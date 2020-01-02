@@ -130,10 +130,13 @@ Step Three and/or Four Addendum: Update Textures/Facades. Optional
 
 		
 Step Five: Create City
+
 • Read the Cscape_Readme.txt file included with the asset.
 
 Step Six: Adjust Individual Buildings
+
 • Select the building you want to change from the scene or via the Hierarchy: Cscape City/Buildings
+
 • Select the "Building Modifier" script.  There are many options to change each building.   (too many for me to document atm)
 	
 	
