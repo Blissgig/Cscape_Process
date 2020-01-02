@@ -3,17 +3,25 @@ I purchased this asset in May of 2018 as I am building a VR race game and this a
 I have posted this on the Unity Cscape forum and finally thought I should post it here so that others can contribute.
 
 Info by Developer
-	• The asset: https://assetstore.unity.com/packages/tools/modeling/cscape-city-system-86716
-  • Unity forum for asset: https://forum.unity.com/threads/released-cscape-advanced-building-generator.460380/
-  • https://olivrproduction.wordpress.com/cscape-help/ 
+• The asset: https://assetstore.unity.com/packages/tools/modeling/cscape-city-system-86716
+
+• Unity forum for asset: https://forum.unity.com/threads/released-cscape-advanced-building-generator.460380/
+
+• https://olivrproduction.wordpress.com/cscape-help/ 
+
 	• https://olivr.info/customizing-cscape-materials-with-cdk/
+	
 	• IMPORTANT: Review the various Read Me documentation prior to starting.
 
 Videos
-	• Create big cities in Unity (with CScape) - General How-To for making a city. https://www.youtube.com/watch?v=jH57G_skl_k&feature=youtu.be
-	• CScape 1.0 new features fast tutorial - More recent quick tutorial:  https://www.youtube.com/watch?time_continue=1&v=7t_8Y5GMXnE
-	• Main optimizations in CScape 1.0:  https://www.youtube.com/watch?v=zcleFn4fvOM
-	• Making a CScape building template: https://www.youtube.com/watch?v=7dhVbB21o9M
+
+• Create big cities in Unity (with CScape) - General How-To for making a city. https://www.youtube.com/watch?v=jH57G_skl_k&feature=youtu.be
+
+• CScape 1.0 new features fast tutorial - More recent quick tutorial:  https://www.youtube.com/watch?time_continue=1&v=7t_8Y5GMXnE
+
+• Main optimizations in CScape 1.0:  https://www.youtube.com/watch?v=zcleFn4fvOM
+
+• Making a CScape building template: https://www.youtube.com/watch?v=7dhVbB21o9M
 
 I highly recommend creating a testbed application to learn how to use this asset.  Cscape is an impressive application, however because of the large number of capabilities and options you should take some time to learn to use this in a safe and separate project before integrating it into an existing game.
 	
