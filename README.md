@@ -15,7 +15,8 @@ Info by Developer
 
 Videos
 
-• Create big cities in Unity (with CScape) - General How-To for making a city. https://www.youtube.com/watch?v=jH57G_skl_k&feature=youtu.be
+• Create big cities in Unity (with CScape) - General How-To for making a city. 
+https://www.youtube.com/watch?v=jH57G_skl_k&feature=youtu.be
 
 • CScape 1.0 new features fast tutorial - More recent quick tutorial:  https://www.youtube.com/watch?time_continue=1&v=7t_8Y5GMXnE
 
@@ -56,16 +57,16 @@ Basic relationship
 			
 			
 Base Process
-	1. Create Facades. Optional
-	2. Create Building Templates . Optional
-	3. Create Districts.  Optional
-	4. Change / Update Textures.  Optional.  A GREAT site for textures:  https://gametextures.com
-	5. Create City
-	6. Adjust specific buildings
+1. Create Facades. Optional
+2. Create Building Templates . Optional
+3. Create Districts.  Optional
+4. Change / Update Textures.  Optional.  A GREAT site for textures:  https://gametextures.com
+5. Create City
+6. Adjust specific buildings
 
 			
 Step One: Facades. Optional
-	Facades are 2D objects that are templates used by Cscape to make buildings.  There are 40 facades. Each building can have one or more facades.  You can review and change values on the  "Building Modifer" script on each building in a scene.  (Step 6)   
+Facades are 2D objects that are templates used by Cscape to make buildings.  There are 40 facades. Each building can have one or more facades.  You can review and change values on the  "Building Modifer" script on each building in a scene.  (Step 6)   
 	1. Open the scene CScapeToolkit.  This is found Assets/CScape
 	2. Select the "CscapeBaker" in the Hierarchy.
 	3. Set the lock icon (upper right) in the inspector so that the Baker does not move away as you adjust windows, etc.
